@@ -1,0 +1,27 @@
+Java
+-------------------------------------------
+Character
+Integer & Long
+String
+lambda
+Arrays
+Stream
+https://www.baeldung.com/java-8-streams
+Collection:
+-> Collections
+1). List
+	a).ArrayList
+	b).LinkedList
+-> Cursors
+2). Set
+	a).HashSet
+	b).LinkedHashSet
+	c).TreeSet
+3). Map:
+	a).HashMap
+	b).LinkedHashMap
+	c).TreeMap
+4). Stack
+5). Queue:
+	a). PriorityQueue
+	b). Deque
